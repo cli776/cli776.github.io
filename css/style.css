@@ -23,7 +23,6 @@ section, footer, aside, nav, article, figure, figcaption {
 body {
 	color: rgb(9, 9, 49);
 	background-color: #fae4d6;
-	background-position: center;
 	font-family: Georgia, Times, serif;
 	line-height: 1.4em;
 	margin: 0px;}
