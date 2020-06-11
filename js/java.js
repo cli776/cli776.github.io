@@ -76,7 +76,6 @@ $(document).ready(function(){
 function search() {
 		let query = $("#searchText").val();
 		query = query.toLowerCase().trim();
-
 		let matches = [];
 		for(let course of COURSES) {
 			let courseTitle = course.course_title.toLowerCase();
